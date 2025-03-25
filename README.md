@@ -46,7 +46,11 @@ The project serves as a foundation for future styling with **CSS**.
 - SEO Meta Tags
 
 ## 🛠️ **How to Use**
-- Clone the Repository
+### Steps to Install:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/sankarasubramanian7/Single-Page-CV.git
 
 
 
